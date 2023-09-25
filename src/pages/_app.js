@@ -1,7 +1,7 @@
 import '@/styles/globals.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import BootstrapScript from '../bootsrap.js';
-import Layout from '@/components/layout.js';
+import Layout from '@/components/Layout.js';
 
 export default function App({ Component, pageProps }) {
   return (
