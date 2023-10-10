@@ -28,9 +28,14 @@ const Navbar = () => {
                                     <button type="button" className="btn btn-outline-secondary"><span className={styles['font-text']}>Teaching</span></button>
                                 </li>
                             </Link>
+                            <Link className="nav-link active" aria-current="page" href='https://drive.google.com/file/d/1QdFAcPKB0PAqbtFpJX9W4b4-C0cxZZ01/view'>
+                                <li className="nav-item">
+                                    <button type="button" className="btn btn-outline-secondary"><span className={styles['font-text']}>JMP</span></button>
+                                </li>
+                            </Link>
                             <div className="nav-link active">
                                 <a href={cv} download="cv.pdf" className="btn btn-outline-primary">
-                                    <span className={styles['font-text']}>Download CV</span>
+                                    <span className={styles['font-text']}>CV</span>
                                 </a>
                             </div>
                         </ul>

@@ -1,6 +1,4 @@
-.teaching{
-  height: 70vh;
-}
+
 
 .heading-blind{
   font-size: 0;
@@ -41,9 +39,9 @@
 
 @media screen and (max-width: 1199px) {
 
-  /* h1 {
+  .footer-dark {
     text-align: center;
-  } */
+  }
 
   .media-row {
     display: flex;
