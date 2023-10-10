@@ -1,9 +1,5 @@
 import Head from 'next/head'
-import { Inter } from 'next/font/google'
-import styles from '@/styles/Home.module.css'
 import Hero from "@/components/Hero"
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
@@ -17,7 +13,7 @@ export default function Home() {
         <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={`${styles.main} ${inter.className}`}>
+      <main>
         <Hero />
       </main>
     </>

@@ -25,7 +25,7 @@ const Footer = () => {
                             <h3>Tomas Munevar E</h3>
                             <ul>
                                 <li><a rel="noreferrer" target="_blank" href='https://www.tomasmunevaresca.com'>Web Site</a></li>
-                                <li><a rel="noreferrer" target="_blank" href='mailto:tomasmunevar36@gmail.com'>Want a web page? Email me</a></li>
+                                
                             </ul>
                             {/* <div className="nav-link active">
                                 <a href={cv} download="cv.pdf" className="btn btn-outline-primary">
