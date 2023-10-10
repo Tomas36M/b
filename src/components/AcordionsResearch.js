@@ -1,5 +1,4 @@
 import React from 'react';
-import researchData from '../data/ResearchData';
 import Link from 'next/link';
 
 const AcordionsResearch = () => {

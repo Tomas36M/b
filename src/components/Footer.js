@@ -21,13 +21,6 @@ const Footer = () => {
                                 <li><a rel="noreferrer" target="_blank" href='https://www.linkedin.com/in/isabela-munevar-236240208/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM1tpHxw%2BSrSWIzkqNbsQPA%3D%3D'>LinkedIn</a></li>
                             </ul>
                         </div>
-                        <div className="col-md-6 item text">
-                            <h3>Created by Tomas Munevar</h3>
-                            <ul>
-                                <li><a rel="noreferrer" target="_blank" href='https://www.tomasmunevaresca.com'>Web Site</a></li>
-                                <li><a rel="noreferrer" target="_blank" href='mailto:tomasmunevar36@gmail.com'>Want a web page? Email me</a></li>
-                            </ul>
-                        </div>
                     </div>
                 </div>
             </footer>

@@ -20,11 +20,13 @@ const Hero = () => {
             </div>
             <div className="col-md-7 order-md-2 p-3 text-center">
                 <h2 className="featurette-heading fw-normal lh-1 pt-4"><span className={styles['font-text']}><strong>Isabela Munevar Escalante</strong></span></h2>
-                <p className="lead pt-4 px-2"><span className={styles['font-text']}>As an economist and Ph.D. candidate, I am devoted to researching and shaping education and labor market
-                    policies, particularly emphasizing in gender, and income equality. I possess expertise in international
-                    development and academia, aiming to connect academic research with actionable policy design. <br /><br /> I pride myself
-                    on being a creative, resourceful individual with strong networking and collaboration abilities. My talent lies in
-                    effectively communicating ideas and persuading others to join in bringing them to fruition.<br /><br /> Fields: Education, labor and development economics.</span>
+                <p className="lead pt-4 px-2"><span className={styles['font-text']}>I&#39;m a Ph.D. Candidate in Economics and Education at Columbia University, guided by Professors
+                    Sarah Cohodes, Christian Popeleches, and Peter Bergman. My research centers on Development
+                    and Education/Labor Economics.<br/><br/>
+                    Previously, I contributed to education and social protection projects in Latin America and the
+                    Caribbean at the Interamerican Development Bank. Additionally, I served for over two years as a
+                    teacher assistant and instructor at Los Andes University in Bogota, Colombia, teaching
+                    microeconomics and introduction to economics.</span>
                 </p>
             </div>
         </section>
