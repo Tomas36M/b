@@ -7,27 +7,6 @@
   .footer-dark {
     text-align: center;
   }
-
-  .media-row {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .img-container {
-    height: 400px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .hero-text {
-    width: 100%;
-    padding-left: 30px;
-    padding-right: 30px;
-  }
 }
 
 .footer-dark {

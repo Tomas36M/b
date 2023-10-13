@@ -7,14 +7,14 @@ const Footer = () => {
             <footer className='mt-auto'>
                 <div className="container">
                     <div className="row justify-content-center">
-                        <div className="col-sm-6 col-md-3 item">
+                        <div className="col-sm-6 col-md-3 item mb-3">
                             <h3>Links</h3>
                             <ul>
                                 <li><a rel="noreferrer" target="_blank" href='https://drive.google.com/file/d/1-Yni7X1kPxmE9eT-vifE3ahov8u1_5QM/view?usp=sharing'>CV</a></li>
                                 <li><a rel="noreferrer" target="_blank" href="mailto:isabela.munevar@gmail.com">Email</a></li>
                             </ul>
                         </div>
-                        <div className="col-sm-6 col-md-3 item">
+                        <div className="col-sm-6 col-md-3 item mb-3">
                             <h3>Links</h3>
                             <ul>
                                 <li><a rel="noreferrer" target="_blank" href='https://twitter.com/munevar_isabela?lang=en'>Twitter</a></li>
@@ -22,7 +22,7 @@ const Footer = () => {
                             </ul>
                         </div>
                         <div className="col-md-6 item text">
-                            <h3>Tomas Munevar E</h3>
+                            <h3>By Tomas Munevar</h3>
                             <ul>
                                 <li><a rel="noreferrer" target="_blank" href='https://www.tomasmunevaresca.com'>Web Site</a></li>
                                 
