@@ -10,28 +10,11 @@ const AcordionsResearch = () => {
                 <div className="accordion-item mb-2">
                     <h2 className="accordion-header">
                         <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                            Catholic Schools in a Lottery Context: Are They Another Non-Excuses Charter? (JMP-
-                            solo-authored)
+                        Catholic schools and student performance: Evidence from Chile’s school-admission lottery (JMP)
                         </button>
                     </h2>
                     <div id="flush-collapseOne" className="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
-                        <div className="accordion-body">Catholic schools are the largest non-governmental school network in the world, serving 62.2
-                            million students globally, surpassed in many countries only by state-run institutions. While they
-                            are commonly perceived as privately funded, Catholic schools can access public funding through
-                            school choice programs in many countries. This paper uses Chilean data to assess the impact of
-                            attending Catholic schools versus other private and public institutions on student outcomes. The
-                            study addresses admission-selection bias by leveraging exogenous variation from school
-                            admission lotteries. Causal estimates reveal that Compared to public schools, attending Catholic
-                            schools improves college entry exam (CEE) performance in math and reading, elevates college
-                            application and acceptance rates, and encourages health-related major preferences. Notably,
-                            positive CEE effects are driven by female students, while male students, particularly high-
-                            performing ones, benefit in terms of college acceptance and CEE science scores. Nevertheless,
-                            attending Catholic schools raises dropout rates, especially for males with low math baseline
-                            ability. Additionally, it dissuades female students, particularly high achievers, from pursuing
-                            STEM majors. Survey evidence reveals that Catholic schools have stricter disciplinary measures
-                            and foster higher levels of parent involvement than other public and private institutions,
-                            resembling characteristics commonly associated with charter schools following the no-excuses
-                            model in the United States.
+                        <div className="accordion-body">Catholic schools are the largest non-governmental school network in the world, serving 62.2 million students globally. This paper uses Chilean data to assess the impact of attending Catholic schools versus other voucher-secular and public schools on student outcomes. The study addresses admission-selection bias by leveraging exogenous variation from school admission lotteries and controls for students’ probability of securing a seat at each type of school. Causal estimates reveal that attending Catholic schools increases the probability of taking the college entry exam (CEE) by 17 percent compared to public secular schools. Additionally, it raises the chances of scoring above the national mean by 33 percent in math and 45 percent in reading. There is also an increased probability of applying and getting accepted to college. Nevertheless, attending Catholic schools raises dropout rates for males with low baseline ability. Notably, positive CEE effects are driven by female students; however, attending a Catholic school appears to dissuade them from pursuing STEM majors. Survey evidence reveals that Catholic schools have stricter disciplinary measures and foster higher levels of parent involvement than other public and secular institutions, resembling characteristics commonly associated with high-achieving charters.
                             <br />
                             <Link target="_blank" href="https://drive.google.com/file/d/1QdFAcPKB0PAqbtFpJX9W4b4-C0cxZZ01/view?usp=sharing">link</Link>
                         </div>

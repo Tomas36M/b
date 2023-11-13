@@ -16,11 +16,10 @@ const Hero = () => {
             </div>
             <div className="col-md-7 order-md-2 p-3 text-center">
                 <h2 className="featurette-heading fw-normal lh-1 pt-4"><span className={styles['font-text']}><strong>Isabela Munevar Escalante</strong></span></h2>
-                <p className="lead pt-4 px-2"><span className={styles['font-text']}>I am a Ph.D. Candidate in Economics and Education at Columbia University, under the guidance of Professors Sarah Cohodes, Christian Popeleches, and Peter Bergman. My research focuses on Applied Microeconomics, Development, and Labor Economics.<br/><br/>
-                    Previously, I contributed to education and social protection projects in Latin America and the
-                    Caribbean at the Interamerican Development Bank. Additionally, I served for over two years as a
-                    teacher assistant and instructor at Los Andes University in Bogota, Colombia, teaching
-                    microeconomics and introduction to economics.</span>
+                <p className="lead pt-4 px-2"><span className={styles['font-text']}>
+                I am a Ph.D. Candidate in Economics and Education at Columbia University, under the guidance of Professors Sarah Cohodes, Christian Popeleches, Judith-Scott Clayton, and Peter Bergman. My expertise lies in the intersection of Economics of Education, Labor, and Development Economics. I am in the job market during the 2023-24 academic year.<br/><br/>
+                My research centers on school choice programs, specifically examining the impact of attending Catholic-run institutions—the world's largest non-governmental school network—compared to secular and public schools. I'm dedicated to understanding how different school models generate value-added for students with diverse characteristics, answering the crucial question of which school is best suited for whom. Additionally, I specialize in designing and evaluating low-cost, effective complementary school programs to enhance student retention, reduce school absenteeism, and improve learning outcomes, particularly in schools serving marginalized communities.
+                </span>
                 </p>
             </div>
         </section>
