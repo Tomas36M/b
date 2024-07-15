@@ -10,7 +10,7 @@ const Footer = () => {
                         <div className="col-sm-6 col-md-3 item mb-3">
                             <h3>Links</h3>
                             <ul>
-                                <li><a rel="noreferrer" target="_blank" href='https://drive.google.com/file/d/1-Yni7X1kPxmE9eT-vifE3ahov8u1_5QM/view?usp=sharing'>CV</a></li>
+                                <li><a rel="noreferrer" target="_blank" href='https://drive.google.com/file/d/1-7FQISgfFtMCkf7RBzzbssxEuIuWUS8B/view?usp=sharing'>CV</a></li>
                                 <li><a rel="noreferrer" target="_blank" href="mailto:isabela.munevar@gmail.com">Email</a></li>
                             </ul>
                         </div>
