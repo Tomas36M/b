@@ -10,15 +10,24 @@ const Hero = () => {
                 <div>
                     <Image
                         src={HeroPic}
-                        alt='isabela-munevar-pic'                        
+                        alt='isabela-munevar-pic'
                     />
                 </div>
             </div>
             <div className="col-md-7 order-md-2 p-3 text-center">
-                <h2 className="featurette-heading fw-normal lh-1 pt-4"><span className={styles['font-text']}><strong>Isabela Munevar Escalante</strong></span></h2>
+                <h2 className="featurette-heading fw-normal lh-1 pt-4"><span className={styles['font-text']}><strong>Isabela Munevar Escalante, Ph.D.</strong></span></h2>
                 <p className="lead pt-4 px-2"><span className={styles['font-text']}>
-                I am a Ph.D. Candidate in Economics and Education at Columbia University, under the guidance of Professors Sarah Cohodes, Christian Popeleches, Judith-Scott Clayton, and Peter Bergman. My expertise lies in the intersection of Economics of Education, Labor, and Development Economics. I am in the job market during the 2023-24 academic year.<br/><br/>
-                My research centers on school choice programs, specifically examining the impact of attending Catholic-run institutions—the world's largest non-governmental school network—compared to secular and public schools. I'm dedicated to understanding how different school models generate value-added for students with diverse characteristics, answering the crucial question of which school is best suited for whom.
+                    I am a postdoctoral fellow at Harvard’s Center for International Development,
+                    collaborating with Professor Asim Khwaja and Juan E. Saavedra on the Colombia
+                    Education Initiative. I hold a PhD in Economics and Education from Columbia
+                    University, as well as a BA and MA in Economics from Los Andes University in Bogotá,
+                    Colombia. In the summer of 2025, I will join the Economics Department of Universidad
+                    de Los Andes in Chile as an Assistant Professor of Economics.
+                    <br /> <br />
+                    I specialize in the convergence of Economics of Education with Political, Public, and
+                    Development Economics. My most recent research is dedicated to uncovering how
+                    various school models contribute value-added to students with diverse characteristics,
+                    addressing the pivotal question of optimal educational environments.
                 </span>
                 </p>
             </div>

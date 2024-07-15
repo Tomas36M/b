@@ -28,12 +28,12 @@ const Navbar = () => {
                                     <button type="button" className="btn"><span className={styles['font-text']}>Teaching</span></button>
                                 </li>
                             </Link>
-                            <Link target="_blank" className="nav-link active" aria-current="page" href='https://drive.google.com/file/d/1QdFAcPKB0PAqbtFpJX9W4b4-C0cxZZ01/view'>
+                            <Link target="_blank" className="nav-link active" aria-current="page" href='https://drive.google.com/file/d/1-3cDnAZkriPOyRf-UxvzcHNYCrDJY17p/view?usp=sharing'>
                                 <li className="nav-item">
                                     <button type="button" className="btn"><span className={styles['font-text']}>JMP</span></button>
                                 </li>
                             </Link>
-                            <Link target="_blank" className="nav-link active" aria-current="page" href='https://drive.google.com/file/d/1W3LBy7bjBRdviEtWIQ2JpIUI13qlImuH/view?usp=sharing'>
+                            <Link target="_blank" className="nav-link active" aria-current="page" href='https://drive.google.com/file/d/1-7FQISgfFtMCkf7RBzzbssxEuIuWUS8B/view?usp=sharing'>
                                 <li className="nav-item">
                                     <button type="button" className="btn"><span className={styles['font-text']}>CV</span></button>
                                 </li>
